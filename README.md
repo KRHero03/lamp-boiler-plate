@@ -3,6 +3,15 @@ This is a standard LAMP Stack Boiler Plate where I made an Authentication and Pr
 It also allows users to delete their User Account. 
 Just Fire up your Apache server, install the composer libraries and run the Boiler plate.
 
+
+## Requirements
+
+- Linux Operating System (xAMPP for Windows)
+- Apache2
+- MySQL
+- PHP
+- Composer
+
 ## Steps
 
 ### Install Apache2 Server and run it as a Service
